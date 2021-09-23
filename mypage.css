@@ -1,0 +1,57 @@
+
+.arman{background-image:url("arman2.jpg"); height:400px; width:auto;
+letter-spacing:2px; line-height:40px; direction: rtl; ; background-attachment: fixed;
+
+}
+
+
+.arman h1{text-align: center;}
+
+
+
+
+
+
+.parsa{ background-color: aquamarine; height:400px; width:auto; line-height: 40px; direction: rtl;
+}
+.parsa h1{text-align: center;}
+.parsa iframe{position: fixed;}
+.f14 h1{text-align: center;}
+.f14{ background-color: red;
+line-height: 30px; letter-spacing: 2px; direction: rtl;
+}
+.f15 h1{text-align: center;
+} 
+.f15{background-color: darkslateblue;
+letter-spacing: 2px; line-height: 40px; direction: rtl;
+
+}
+	
+	
+	
+.f16 h1{text-align: center;}
+.f16 {background-color: blueviolet; line-height: 40px; letter-spacing: 2px;
+direction: rtl;
+}
+.f14 p{text-align: center} .f15 p{text-align: center;} .f16 p{text-align: center;}
+.f17 h1{text-align: center;}
+.f17 {background-color: white;
+	letter-spacing: 2px; line-height: 40px; }
+
+	
+.f17 button{text-align: center;}
+
+
+
+table,td,th{border:1px solid #ddd; font:12px tahoma; border-collapse:collapse; text-align: center; padding: 10px;}
+table{width: 100%;}
+video{position: static;}
+.arman27{text-align: center;}
+.iran12{ text-align: center;}
+.iran13{text-align: center;}
+.iran15{background-color: darkblue;}
+.iran17{background-color: red;}
+
+
+
+
